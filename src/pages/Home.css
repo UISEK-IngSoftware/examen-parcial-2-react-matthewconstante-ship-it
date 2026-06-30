@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Orbitron:wght@700&display=swap');
+
+.home-layout {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0b0c10 0%, #1f2833 100%);
+  color: #c5c6c7;
+  padding-bottom: 60px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.home-navbar {
+  background-color: #1a1a2e !important;
+  border-bottom: 2px solid #66fcf1;
+  box-shadow: 0 4px 15px rgba(102, 252, 241, 0.2) !important;
+}
+
+.home-app-title {
+  font-family: 'Orbitron', sans-serif !important;
+  color: #66fcf1 !important;
+  letter-spacing: 2px;
+  text-shadow: 0 0 8px rgba(102, 252, 241, 0.5);
+}
